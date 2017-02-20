@@ -1,0 +1,16 @@
+{
+  "name": "@venkat/src",
+  "version": "1.0.1",
+  "description": "first created json file",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "~/workspace/src"
+  },
+  "devDependencies": {}
+}
