@@ -12,5 +12,6 @@
     "type": "git",
     "url": "~/workspace/src"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "dependencies": {}
 }
